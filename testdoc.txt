@@ -1,6 +1,5 @@
 test doc
 so this line was added in test branch
 another sentence in test branch lets see if that post on so helped out
-this text is from master branch.
-so this line was added in test branch
+THIS TEXT WAS ADDED AND REPLACED 2 LINES
 this sentence was in master
