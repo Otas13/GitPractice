@@ -1,4 +1,5 @@
 test doc
 this text is from master branch.
 so this line was added in test branch
+this sentence was in master
 
