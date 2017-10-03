@@ -1,0 +1,5 @@
+<NotepadPlus>
+    <Project name="GitPractice">
+        <File name="octocat.txt" />
+    </Project>
+</NotepadPlus>
