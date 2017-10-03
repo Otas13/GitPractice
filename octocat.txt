@@ -7,6 +7,10 @@ main project text
 <ok now im gonna continue in master devel>
 <appended in parallel line 4>
 main project text
+{
+	continue in devel on parallel branch
+	some random blocks of code ...
+}
 main project text
 {edited in new parallel branch}
 main project text
