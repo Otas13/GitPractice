@@ -15,3 +15,4 @@ main project text
 {edited in new parallel branch}
 main project text
 [also in master]
+[ ... some super important changes that dev depends on]
