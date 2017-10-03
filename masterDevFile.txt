@@ -2,3 +2,4 @@ new file created in master
 {another random code ...}
 {added in parallel branch 2}
 {added in parall[edited in master]}
+{continue in work on dev branch}
