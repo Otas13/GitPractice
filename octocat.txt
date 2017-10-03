@@ -6,4 +6,5 @@ main project text
 <appended in parallel line 4>
 main project text
 main project text
+{edited in new parallel branch}
 main project text
