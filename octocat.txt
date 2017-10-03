@@ -1,6 +1,7 @@
 main project text
 main project textmain project textmain
+main project {edited in master} text
 main project text
-main project text
+<ok now im gonna continue in master devel>
 main project text
 main project text
