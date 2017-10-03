@@ -1,5 +1,8 @@
 <NotepadPlus>
     <Project name="GitPractice">
         <File name="octocat.txt" />
+        if($fuuuuuu === 2){
+        echo "added in parallel branch"
+        }
     </Project>
 </NotepadPlus>
