@@ -3,7 +3,8 @@
         <File name="octocat.txt" />
         if($fuuuuuu === 2){
         echo "added in parallel branch"
-        }
+        }[luul]
+        [bazBaz]
     </Project>
     [muuuuuuheheh]
 </NotepadPlus>

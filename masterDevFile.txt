@@ -1,2 +1,2 @@
 new file created in master
-{added in parallel branch 2}
+{added in parall[edited in master]}
